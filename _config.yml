@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+# Site settings
+title: Teneika's Portfolio
+author:
+  name: Teneika Askew
+linkedin: linkedin.com/in/teneika
+description: "GH Pages for Teneika"
