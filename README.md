@@ -6,4 +6,4 @@ Hi 👋🏽 I'm a Global Analytics and Agile Leader, <strong>Teacher and Mentor<
 
 <strong>Tools</strong>💻: Power BI, Tableau, SQL and Python to create 100% data-driven, innovative insights using organizational data.
 
-<strong>Certifications</strong> 🎓 | Microsoft Data Analyst, Certified Scrum Master, Tableau Desktop Specialist, AWS Solution Architect. COBIT 5, ITIL, Agile Certified Practitioner and Microsoft Certified Trainer. Fellowships: Data Science for All - Empowerment and Data Science for All - Women's Summit
+<strong>Certifications</strong> 🎓 | Microsoft Data Analyst, Certified Scrum Master, Tableau Desktop Specialist, AWS Solution Architect. COBIT 5, ITIL, Agile Certified Practitioner and Microsoft Certified Trainer. Fellowships: Data Science for All - Empowerment and Data Science for All - Women
