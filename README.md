@@ -1,4 +1,4 @@
-# teneikaaskew.github.io
+# README
 
 teneikaaskew.com | Women of Color in STEM - Technology All Star Award Recipient. People Analytics World Speaker. Grace Hopper Women of Color in Tech Scholar. Society of Women Engineers Speaker. Distinguished Scholar and Honors level in Data Science for All fellowship.
 
