@@ -13,7 +13,7 @@ Hi 👋🏽 I'm a Global Analytics and Agile Leader, <strong>Teacher and Mentor<
 ## The Biased Venture Capital System
 
 Women owned businesses are growing 2X faster than all businesses nationwide, and yet, they only receive 2.8% of venture capital (VC) funding. The goal of this project is to help female entrepreneurs understand the VC funding landscape by producing a model to predict success of raising funds while also investigating gender bias and providing recommendations.<br>
-<a href="https://public.tableau.com/app/profile/teneika.askew/viz/TheBiasedVCSystem/Recommendations-Tool"><img src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQEZ_qFn_0lhQA/articleshare-shrink_800/0/1639468681496?e=1640383200&v=beta&t=vZN6JqBZ961VozWa7u4JZo6ShvM1oT_x8iR5TAAhj-w" alt="Bias VC Tableau Dashboard" style="height: 200px; width:400px" align="left"/></a><br>
+<a href="https://public.tableau.com/app/profile/teneika.askew/viz/TheBiasedVCSystem/Recommendations-Tool"><img src="https://github.com/TeneikaAskew/biased-vc-system/raw/main/Dashboard/DashboardImage.jpg" alt="Bias VC Tableau Dashboard" style="height: 200px; width:400px" align="left"/></a><br>
 As the Project Lead and Data Science Fellow, Teneika conducted data analaysis, wrangling, Tableau dashboard development and data wrangling in Flow.. She led the team to create a model to evaluate the factors the lead to a Women-Owned or Women-Led business moving to the LP or GP stage of a venture deal. The outcome provided recommendations based on user and stakeholder interviews from experts in VC and access to a Tableau tool providing additional insight. 
 
 
